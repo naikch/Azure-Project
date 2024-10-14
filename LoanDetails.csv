@@ -1,0 +1,7 @@
+LoanType,Source_ID,Max_Perct_Loan,Max_Tenure
+Auto,1,95,15
+Home Improvement,2,95,10
+Mortgage,3,100,15
+Personal,4,100,10
+Medical,5,100,20
+Educational,6,100,50
